@@ -15,10 +15,11 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  height: 100vh;
 }
 
 main {
-  height: 100vh;
+  height: 100%;
   padding: 20px;
   display: flex;
   flex-direction: column;
